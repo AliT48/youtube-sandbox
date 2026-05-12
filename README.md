@@ -82,7 +82,7 @@ yt-dlp: https://www.youtube.com/watch?v=6qFeURAfItU
 | `sponsorblock` | حذف بخش‌های اسپانسر و مقدمه | `false`                      |
 
 <br>
-
+.
 ## 📁 ساختار فایل‌ها بعد از دانلود
 
 - فایل‌های **کمتر از ۹۰ مگابایت**: مستقیم توی پوشه `downloads` ذخیره می‌شن.
